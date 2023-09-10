@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Brandon Powell 👋
 
 <!--
 **Brandon-Powell25/Brandon-Powell25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and tools:
+Front-end: HTML5 CSS3 JavaScript
+Back-end: Python Flask NodeJS
+Database: PostgreSQL
+Testing: Jest Pytest
+Version Control: GitHub
+Learning soon: React MongoDB
