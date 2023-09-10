@@ -1,7 +1,5 @@
 # Hi, my name is Brandon Powell, nice to meet you. 👋
 
-## Full Stack Web Developer
-
 - 🔭 I’m currently working on completing the Advanced Diploma of IT at Coder Academy.
 - 🌱 I’m currently learning <b>JavaScript</b> and <b>NodeJS</b>
 - 📫 How to reach me: ninjabrandon98@gmail.com
@@ -17,4 +15,4 @@
 *Learning soon:* <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-181717?logo=mongodb&logoColor=white&labelColor=47A248" />
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brandon-Powell25&theme=radical)
+
