@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
 Languages and tools:
-Front-end: HTML5 CSS3 ?i=js JavaScript
+Front-end: HTML5 CSS3 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)JavaScript
 Back-end: Python Flask NodeJS
 Database: PostgreSQL
 Testing: Jest Pytest
