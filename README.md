@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 Languages and tools:
-Front-end: HTML5 CSS3 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)JavaScript
+Front-end: HTML5 CSS3 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
 Back-end: Python Flask NodeJS
 Database: PostgreSQL
 Testing: Jest Pytest
