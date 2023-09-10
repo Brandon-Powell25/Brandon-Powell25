@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Languages and tools:
 - <b>Front-end:</b> [![Front-end](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 - <b>Back-end:</b> [![Back-end](https://skills.thijs.gg/icons?i=python,flask,nodejs)](https://skills.thijs.gg)
-- <b>Database:</b> PostgreSQL
+- <b>Database:</b> [![Database](https://skills.thijs.gg/icons?i=postgres)](https://skills.thijs.gg)
 - <b>Testing:</b> Jest Pytest
 - <b>Version Control:</b> GitHub
-- <b>Learning soon:</b> React MongoDB
+- <b>Learning soon:</b> [![learning](https://skills.thijs.gg/icons?i=mongodb,react)](https://skills.thijs.gg)
