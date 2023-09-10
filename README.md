@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 Languages and tools:
-Front-end: HTML5 CSS3 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
-Back-end: Python Flask NodeJS
-Database: PostgreSQL
-Testing: Jest Pytest
-Version Control: GitHub
-Learning soon: React MongoDB
+- <b>Front-end:</b> [![HTML5](https://skills.thijs.gg/icons?i=HTML)](https://skills.thijs.gg) [![CSS](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
+- <b>Back-end:</b> Python Flask NodeJS
+- <b>Database:</b> PostgreSQL
+- <b>Testing:</b> Jest Pytest
+- <b>Version Control:</b> GitHub
+- <b>Learning soon:</b> React MongoDB
