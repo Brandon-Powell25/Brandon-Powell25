@@ -1,22 +1,15 @@
 # Hi, my name is Brandon Powell 👋
 
-<!--
-**Brandon-Powell25/Brandon-Powell25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Workbook, final project.
+- 🌱 I’m currently learning <b>JavaScript</b> and <b>NodeJS</b>
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-##💻 Languages and tools:
+
+## 💻 Languages and tools:
 - **Front-end:** <img alt="HTML5" src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 - **Back-end:** <img alt="Python" src="https://img.shields.io/badge/Python-181717?logo=python&logoColor=white&labelColor=3776AB" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-181717?logo=nodedotjs&logoColor=white&labelColor=339933" />
 - **Database:** <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-181717?logo=postgresql&logoColor=white&labelColor=4169E1" />
